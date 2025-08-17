@@ -1,0 +1,48 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+html, body { min-height: 100% } 
+#menu_149e2e75 a { text-decoration: none; }
+#menu_149e2e75_pane { background-color: #E6E6E6; border: 1px solid #E6E6E6; padding-top: 10px; padding-bottom: 10px; box-shadow: 2px 2px 6px 0px rgba(8, 8, 8, 0.784314); }
+#menu_149e2e75_hr { background-color: #E6E6E6; height: 1px; border: none; }
+#menu_149e2e75_entry { padding-left: 10px; padding-right: 10px; padding-top: 3px; padding-bottom: 3px; }
+#menu_149e2e75_entry:hover { background-color: #323232; color: #FFFFFF !important; }
+#menu_149e2e75_entry:hover span { color:#FFFFFF !important; }
+		.menu_149e2e75_mainMenuEntry { text-align: center; }
+		.menu_149e2e75_mainMenuEntry:hover {	background-color:#282828; }
+		.menu_149e2e75_mainMenuEntry:hover span {	color:#FFFFFF !important; }
+		#menu_149e2e75 .mobileEntry { display: none; } 
+		#menu_149e2e75 .normalEntry { display: block; } 
+		@media only screen and (max-width:550px) { 
+			#menu_149e2e75 .mobileEntry { display: block; } 
+			#menu_149e2e75 .normalEntry { display: none; } 
+		}
+body { background-color:#FFFFFF; background-position:top left; background-size:cover; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#menu_149e2e75 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:100%; height:80px; text-align:left; background-color:#F5F5F5; background: linear-gradient(to bottom, #F5F5F5, #F5F5F5); border: 1px solid #A0A0A0;  }
+.menuholder1 { position: relative; overflow: hidden; width: 100%; height: 100%; }
+.menustyle1 { position:absolute; width:37px; height:80px; left:10px;  }
+.menuentry_text1 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:33px;  }
+.textstyle2 { font-size:22pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle2 { position:absolute; width:122px; height:80px; left:10px;  }
+.menuentry_text2 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:87px;  }
+#img_6511bd12 { vertical-align: bottom; position:relative; display: inline-block; width:102px; background:none; height:auto;  }
+.menustyle3 { position:absolute; width:129px; height:80px; left:132px;  }
+.menuentry_text3 { position:absolute; top:0px; bottom:0px; left:0px; right:0px; margin-top:auto; margin-bottom:auto; margin-left:auto; margin-right:auto; height:23px;  }
+.textstyle3 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  white-space: nowrap; }
+.menustyle4 { position:absolute; width:62px; height:80px; left:261px;  }
+.textstyle4 { font-size:15pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.menustyle5 { position:absolute; width:85px; height:80px; left:323px;  }
+.menustyle6 { position:absolute; width:149px; height:80px; left:408px;  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  white-space: nowrap; }
+.textstyle6 { text-align:center; }
+#img_304cc980 { vertical-align: bottom; position:relative; display: inline-block; width:44%; background:none; height:auto;  }
+.textstyle7 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#text_3261fcc3 { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
+.textstyle8 { font-size:20pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+#text_5ce8949f { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
+.textstyle9 { font-size:20pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+#text_7d88a215 { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
+#text_548ef2b6 { vertical-align: bottom; position:relative; display: inline-block; background:none;  }
+.textstyle10 { font-size:18pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
